@@ -1,0 +1,17 @@
+body{
+    background-image: url('JavascriptPic/Date.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+    color: goldenrod;
+}
+p{
+    text-align: center;
+    color: coral;
+}
+img{
+    width: 500px;
+    height: 500px;
+}

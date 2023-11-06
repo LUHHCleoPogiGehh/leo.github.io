@@ -1,0 +1,24 @@
+h1{
+  font-size: 45px;
+                font-weight: bolder;
+                font-family: monospace;
+                text-align: center;
+        color: rgb(150,20,50);
+}
+p{
+                font-size: 35px;
+                font-family: monospace;
+                text-align: center;
+                color: Rgb(170,190,70);
+            }
+      h3{
+                font-size: 40px;
+                font-weight: bolder;
+                font-family: Monospace;
+                text-align: center;
+        color: rgb(150,20,50)
+            }
+img{
+  width: 100px;
+  height: 100px
+}
